@@ -1,9 +1,0 @@
-{
-  "name": "vercel-sku-api",
-  "version": "1.0.0",
-  "main": "api/index.js",
-  "type": "module",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
-}
